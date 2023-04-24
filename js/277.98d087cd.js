@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapp_dowlaod"]=self["webpackChunkapp_dowlaod"]||[]).push([[277],{6843:function(n,a,u){u.r(a),u.d(a,{default:function(){return s}});var l=u(3396),r=u.p+"img/3-二维码.2b4e81ad.png";const e=(0,l._)("h2",null,"Mac",-1),t=(0,l._)("img",{src:r,alt:""},null,-1),c=[e,t];function d(n,a,u,r,e,t){return(0,l.wg)(),(0,l.iD)("div",null,c)}var o={},p=u(89);const i=(0,p.Z)(o,[["render",d]]);var s=i}}]);
+//# sourceMappingURL=277.98d087cd.js.map

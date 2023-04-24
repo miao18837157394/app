@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapp_dowlaod"]=self["webpackChunkapp_dowlaod"]||[]).push([[323],{7323:function(n,r,a){a.r(r),a.d(r,{default:function(){return c}});var u=a(3396);function d(n,r,a,d,e,o){return(0,u.wg)(),(0,u.iD)("div",null,"android")}var e={},o=a(89);const t=(0,o.Z)(e,[["render",d]]);var c=t}}]);
+//# sourceMappingURL=323.8ed41633.js.map
