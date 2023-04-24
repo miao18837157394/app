@@ -1,0 +1,32 @@
+{
+  "name": "app-dowlaod",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "prettier": "prettier --write ."
+  },
+  "dependencies": {
+    "@better-scroll/core": "^2.5.0",
+    "@better-scroll/pull-up": "^2.5.0",
+    "@element-plus/icons-vue": "^2.0.10",
+    "core-js": "^3.8.3",
+    "element-plus": "^2.2.32",
+    "normalize.css": "^8.0.1",
+    "vue": "^3.2.13",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@types/better-scroll": "^1.12.4",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "prettier": "^2.8.4"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
